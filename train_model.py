@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 print("🚀 Début de l'entraînement du modèle MNIST...")
 
 # Variables pour les paramètres
-EPOCHS = 5
+EPOCHS = 20
 BATCH_SIZE = 128
 DROPOUT_RATE = 0.2
 
