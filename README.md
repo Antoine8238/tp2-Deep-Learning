@@ -1,6 +1,6 @@
 #  TP2 – Amélioration des Réseaux de Neurones Profonds
 
-**Auteur** : Antoine Emmanuel ESSOMBA ESSOMBA\\
+**Auteur** : Antoine Emmanuel ESSOMBA ESSOMBA
 **Encadrant** : Dr Louis Fippo
 **Département** : Génie Informatique, ENSPY  
 
